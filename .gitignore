@@ -1,0 +1,5 @@
+*.o
+*.elf
+*.vpk*
+coredump
+build/*
